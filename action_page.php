@@ -1,11 +1,9 @@
- <html>
-<head>
-  <title>signup catgaliao</title>
-</head>
+<?php
 
-<body>
-  <h1>Thanks for joining!</h1>
-  <p>help catgaliao by raising awareness :0, you are one of our first members.</p>
-</body>
-
-</html> 
+    if( isset($_POST['submit']) )
+    {
+        $feature = $_POST['feature'];
+        $feature2 = $_POST['feature2'];
+        // do stuff (will send data to database)
+    }
+?>
