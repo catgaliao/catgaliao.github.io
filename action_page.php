@@ -3,7 +3,7 @@
 <body>
  
 <?php
-echo "you have been logged in. success!!";
+echo "you have been signed up. success!!";
 ?>
 
 </body>
