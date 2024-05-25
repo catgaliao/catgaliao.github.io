@@ -1,1 +1,1 @@
-your account has been created! Enjoy!
+your account has been logged in. thank you for returning to catgaliao.
