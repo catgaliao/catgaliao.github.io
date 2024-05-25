@@ -1,1 +1,1 @@
-your account has been logged in. thank you for returning to catgaliao.
+your account has been logged in. thank you to returning to catgaliao.
