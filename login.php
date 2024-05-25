@@ -1,1 +1,10 @@
-your account has been logged in. thank you to returning to catgaliao.
+<!DOCTYPE html>
+<html>
+<body>
+ 
+<?php
+echo "logged in successfully.!";
+?>
+
+</body>
+</html>
